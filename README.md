@@ -13,16 +13,37 @@
 ## نموذج ملف JSON
 
     {
-        "!Gamers": {
-            "anime_url": "https://witanime.you/anime/gamers/",
+        "Shingeki no Kyojin": {
+            "anime_url": "https://witanime.you/anime/shingeki-no-kyojin/",
             "type": "TV",
-            "mal_id": "34280"
+            "mal_id": "16498",
+            "1": {
+                "streaming_links": [
+                    "https://yonaplay.net/embed.php?id=12902",
+                    "https://hgcloud.to/e/0kd9wfyzafb9"
+                ],
+                "downloading_links": [
+                    "https://www.mediafire.com/file/yihxl43a65hjiqp/%5BWitanime.com%5D_SNK_EP_01_BD-FHD.mp4/file",
+                    "https://workupload.com/file/qBWfFcaC9h6"
+                ]
+            },
+            "2": {
+                "streaming_links": [
+                    "https://yonaplay.net/embed.php?id=12903",
+                    "https://hgcloud.to/e/lsik0grdlrmi"
+                ],
+                "downloading_links": [
+                    "https://www.mediafire.com/file/c9pmbsqn6a2afvi/%5BWitanime.com%5D_SNK_EP_02_BD-FHD.mp4/file",
+                    "https://workupload.com/file/nhJ4kmuyUrx"
+                ]
+            }
         }
     }
 
 - **anime_url**: الرابط الأساسي للأنمي على المصدر.
 - **type**: نوع العرض (TV, Movie, OVA, إلخ).
 - **mal_id**: المعرف الرسمي من MyAnimeList.
+- **أرقام الحلقات (1, 2, ...)**: تحتوي كل حلقة على قائمتين للروابط (بث وتحميل).
 
 ## آلية التحديث الدوري
   
