@@ -19,22 +19,22 @@
             "mal_id": "16498",
             "1": {
                 "streaming_links": [
-                    "https://yonaplay.net/embed.php?id=12902",
-                    "https://hgcloud.to/e/0kd9wfyzafb9"
+                    "url",
+                    "url"
                 ],
                 "downloading_links": [
-                    "https://www.mediafire.com/file/yihxl43a65hjiqp/%5BWitanime.com%5D_SNK_EP_01_BD-FHD.mp4/file",
-                    "https://workupload.com/file/qBWfFcaC9h6"
+                    "url",
+                    "url"
                 ]
             },
             "2": {
                 "streaming_links": [
-                    "https://yonaplay.net/embed.php?id=12903",
-                    "https://hgcloud.to/e/lsik0grdlrmi"
+                    "url",
+                    "url"
                 ],
                 "downloading_links": [
-                    "https://www.mediafire.com/file/c9pmbsqn6a2afvi/%5BWitanime.com%5D_SNK_EP_02_BD-FHD.mp4/file",
-                    "https://workupload.com/file/nhJ4kmuyUrx"
+                    "url",
+                    "url"
                 ]
             }
         }
