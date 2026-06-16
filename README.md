@@ -1,2 +1,3 @@
 # WITanime-DB
-### ما هذه ؟
+### س: ما هذه ؟
+ال DATA BASE الخاصة بموقع WITANIME
