@@ -1,5 +1,2 @@
 # WITanime-DB
-<details>
-  <summary>❓ السؤال الذي تريد عرضه هنا؟</summary>
-  هذا هو الجواب الذي سيظهر عند الضغط على السؤال. يمكنك كتابة نص عادي هنا.
-</details>
+بيانات موقع [Witanime](https://witanime.you/) كاملة
