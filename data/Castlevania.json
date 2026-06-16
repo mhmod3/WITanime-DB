@@ -1,0 +1,51 @@
+{
+    "Castlevania": {
+        "anime_url": "https://witanime.you/anime/castlevania/",
+        "type": "ONA",
+        "mal_id": null,
+        "1": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=7639",
+                "https://ok.ru/videoembed/4640468634187"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1NS8LkRg0747AJRsgZhWwGZhsG2tFvOOP&export=download",
+                "https://www.sharezweb.com/file/fp3lrk005cjn",
+                "https://workupload.com/file/8UyCTkQH4pj"
+            ]
+        },
+        "2": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=7640",
+                "https://ok.ru/videoembed/4640517196363"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1BL1I02WTfWlf6cTqXBNfmtrX9RgZHpdg&export=download",
+                "https://www.sharezweb.com/file/fp3lro0033zn",
+                "https://workupload.com/file/gvFMPamEmXu"
+            ]
+        },
+        "3": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=7641",
+                "https://ok.ru/videoembed/4640518965835"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1Y-GJ7XS5-ZrnS6JyOveXupg7kANOKAcN&export=download",
+                "https://www.sharezweb.com/file/fp3lro000lsu",
+                "https://workupload.com/file/WenffVdZF6Y"
+            ]
+        },
+        "4": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=7642",
+                "https://ok.ru/videoembed/4640520866379"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1otx1507szMuv_G7yF3MKuXpob32THdXl&export=download",
+                "https://www.sharezweb.com/file/fp3lro003wed",
+                "https://workupload.com/file/RxxgEsjt4FR"
+            ]
+        }
+    }
+}

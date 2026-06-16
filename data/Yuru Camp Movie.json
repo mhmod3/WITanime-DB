@@ -1,0 +1,17 @@
+{
+    "Yuru Camp Movie": {
+        "anime_url": "https://witanime.you/anime/yuru-camp-movie/",
+        "type": "Movie",
+        "mal_id": "38475",
+        "movie": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6583",
+                "https://videa.hu/player?v=B6ugWSzw9oUB04PI",
+                "https://hlswish.com/e/lsvnr500i6b5"
+            ],
+            "downloading_links": [
+                "https://workupload.com/file/aTY4BC9gNvs"
+            ]
+        }
+    }
+}

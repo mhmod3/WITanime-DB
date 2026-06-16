@@ -1,0 +1,62 @@
+{
+    "Hanamonogatari": {
+        "anime_url": "https://witanime.you/anime/hanamonogatari/",
+        "type": "TV",
+        "mal_id": "21855",
+        "1": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=10214",
+                "https://playerwish.com/e/gqn8lhwr5f0z",
+                "https://luluvdo.com/e/hy5abth7bkwg"
+            ],
+            "downloading_links": [
+                "https://soraplay.cfd/73uJlJ1",
+                "https://kuhaku.rf.gd/download.php?id=434b230d4920e4d2a3c4e7255af291e2"
+            ]
+        },
+        "2": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=10215",
+                "https://playerwish.com/e/r0ojtkcyiuoa",
+                "https://luluvdo.com/e/sfl4uh34duiq"
+            ],
+            "downloading_links": [
+                "https://soraplay.cfd/jy69T5",
+                "https://kuhaku.rf.gd/download.php?id=7a18e8e50a60a1c890d67c91398426aa"
+            ]
+        },
+        "3": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=10216",
+                "https://playerwish.com/e/wgbkyiaf8cd2",
+                "https://luluvdo.com/e/x1olxwuk4r9c"
+            ],
+            "downloading_links": [
+                "https://soraplay.cfd/2zdjlFKm",
+                "https://kuhaku.rf.gd/download.php?id=3e67ad6c9373014428d2877e5d0751fc"
+            ]
+        },
+        "4": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=10217",
+                "https://playerwish.com/e/lz39t3amuhe6",
+                "https://luluvdo.com/e/mf7xc62ufdkm"
+            ],
+            "downloading_links": [
+                "https://mega.nz/file/pPFR3QTZ#-63Tpre9DiPiK4rKB3fhzNLEVljUpFidMcpZNYjSP0w",
+                "https://kuhaku.rf.gd/download.php?id=b441a58764dd1c9e94b8bda8b69578b1"
+            ]
+        },
+        "5": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=10218",
+                "https://playerwish.com/e/vkhd5e5nydn7",
+                "https://luluvdo.com/e/0ahfljmnp35z"
+            ],
+            "downloading_links": [
+                "https://soraplay.cfd/TzPDdYNl",
+                "https://kuhaku.rf.gd/download.php?id=0d01ab7fa1256ff537d9612b00c17ffc"
+            ]
+        }
+    }
+}

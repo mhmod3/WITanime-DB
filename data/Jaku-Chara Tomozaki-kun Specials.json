@@ -1,0 +1,27 @@
+{
+    "Jaku-Chara Tomozaki-kun Specials": {
+        "anime_url": "https://witanime.you/anime/jaku-chara-tomozaki-kun-specials/",
+        "type": "Special",
+        "mal_id": "45604",
+        "1": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=13958"
+            ],
+            "downloading_links": [
+                "https://wahmi.org/HFDpULpVXF1cdXB/file",
+                "https://wahmi.org/xvCly03hv7rJ0z5/file",
+                "https://wahmi.org/Aty1EE8AEU1QAxQ/file"
+            ]
+        },
+        "2": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=13959"
+            ],
+            "downloading_links": [
+                "https://wahmi.org/GeAo6Fl6qR8ABci/file",
+                "https://wahmi.org/JmS3jlTBKM1HWuv/file",
+                "https://wahmi.org/YH4w87x8R2GWdys/file"
+            ]
+        }
+    }
+}

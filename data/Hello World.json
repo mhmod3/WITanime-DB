@@ -1,0 +1,18 @@
+{
+    "Hello World": {
+        "anime_url": "https://witanime.you/anime/hello-world/",
+        "type": "Movie",
+        "mal_id": "38816",
+        "movie": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=15590",
+                "https://videa.hu/player?v=KlzxHlwywr4LC8m6",
+                "https://hlswish.com/e/nf1w9vnkkw88"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=19nRk3hr24ec_wYKDTC3RcRaQS8vZOX0G&export=download",
+                "https://mega.nz/file/oAdiBZTb#mhCCk_F10I79Kl-mTx1aizPSgLJhVfxBYpI2p68HPdk"
+            ]
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "Gokushufudou": {
+        "anime_url": "https://witanime.you/anime/gokushufudou/",
+        "type": "ONA",
+        "mal_id": "43692",
+        "1": {
+            "streaming_links": [
+                "https://mid.yonaplay.net/embed/2ab5ad26fde623f2/"
+            ],
+            "downloading_links": [
+                "https://www.mediafire.com/file/dn13x4gy7ssltph/%5BWitanime.com%5D_GO_EP_01_SD.mp4/file",
+                "https://www.mediafire.com/file/214b4ty1u9mk23j/%5BWitanime.com%5D+GO+EP+01+HD.mp4/file",
+                "https://drive.google.com/u/0/uc?id=1JGey0ZHq1cOLqmZOXNp3o8UqlSDO0xnD&export=download",
+                "https://www.mediafire.com/file/ge2o2qsqp3oxdax/%5BWitanime.com%5D_GO_EP_01_FHD.mp4/file"
+            ]
+        },
+        "2": {
+            "streaming_links": [
+                "https://mid.yonaplay.net/embed/8b37972f37a93af9/"
+            ],
+            "downloading_links": [
+                "https://www.mediafire.com/file/awu5uagfj9zs8k7/%5BWitanime.com%5D_GO_EP_02_SD.mp4/file",
+                "https://www.mediafire.com/file/967k4isd2vmxcdt/%5BWitanime.com%5D_GO_EP_02_HD.mp4/file",
+                "https://drive.google.com/u/0/uc?id=1uo2n_2z1B8-3R14QPJWztQOa2qwHCbR1&export=download",
+                "https://www.mediafire.com/file/z0nan7ey8rakesj/%5BWitanime.com%5D_GO_EP_02_FHD.mp4/file"
+            ]
+        },
+        "3": {
+            "streaming_links": [
+                "https://mid.yonaplay.net/embed/efd4d8c0e529c1f8/"
+            ],
+            "downloading_links": [
+                "https://www.mediafire.com/file/j4q3rr1taaxhtcl/%5BWitanime.com%5D_GO_EP_03_SD.mp4/file",
+                "https://www.mediafire.com/file/6w6ytmjfbtu61tr/%5BWitanime.com%5D_GO_EP_03_HD.mp4/file",
+                "https://drive.google.com/u/0/uc?id=1rLSyScqet1cKiGsxw8dQtMmLNn1YKhlV&export=download",
+                "https://www.mediafire.com/file/jrsybgjfm019ecu/%5BWitanime.com%5D_GO_EP_03_FHD.mp4/file"
+            ]
+        },
+        "4": {
+            "streaming_links": [
+                "https://mid.yonaplay.net/embed/15ddc4e49854a110/"
+            ],
+            "downloading_links": [
+                "https://www.mediafire.com/file/s63z3xz21j0ghd7/%5BWitanime.com%5D_GO_EP_04_SD.mp4/file",
+                "https://www.mediafire.com/file/77pdndwkhevsb26/%5BWitanime.com%5D_GO_EP_04_HD.mp4/file",
+                "https://drive.google.com/u/0/uc?id=1zGkiqHv1HiM-Nvu6zhph-RL8jX29_sRJ&export=download",
+                "https://www.mediafire.com/file/nez8kdggbk419k1/%5BWitanime.com%5D_GO_EP_04_FHD.mp4/file"
+            ]
+        },
+        "5": {
+            "streaming_links": [
+                "https://mid.yonaplay.net/embed/8e03db12fb6c6493/"
+            ],
+            "downloading_links": [
+                "https://www.mediafire.com/file/a2nh2tml0wumfid/%5BWitanime.com%5D_GO_EP_05_END_SD.mp4/file",
+                "https://www.mediafire.com/file/w6uswm0q6yx0toe/%5BWitanime.com%5D_GO_EP_05_END_HD.mp4/file",
+                "https://drive.google.com/u/0/uc?id=1PfXepylHVe7RbIIkHIShQvA5VtYuUD0l&export=download",
+                "https://www.mediafire.com/file/ndunlzc7ld4vphv/%5BWitanime.com%5D_GO_EP_05_END_FHD.mp4/file"
+            ]
+        }
+    }
+}

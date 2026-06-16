@@ -1,0 +1,43 @@
+{
+    "Nanatsu no Taizai: Seisen no Shirushi": {
+        "anime_url": "https://witanime.you/anime/nanatsu-no-taizai-seisen-no-shirushi/",
+        "type": "TV",
+        "mal_id": "31722",
+        "1": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=2871",
+                "https://hgcloud.to/e/ys7iun3f3ol9"
+            ],
+            "downloading_links": [
+                "https://workupload.com/file/vBbRQHQyJ6Y"
+            ]
+        },
+        "2": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=2872",
+                "https://hgcloud.to/e/jvg87tn85xra"
+            ],
+            "downloading_links": [
+                "https://workupload.com/file/ba83fjcUwH7"
+            ]
+        },
+        "3": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=2873",
+                "https://hgcloud.to/e/jya99339qdfq"
+            ],
+            "downloading_links": [
+                "https://workupload.com/file/VdGd5dLcZRw"
+            ]
+        },
+        "4": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=2873",
+                "https://hgcloud.to/e/jya99339qdfq"
+            ],
+            "downloading_links": [
+                "https://workupload.com/file/VdGd5dLcZRw"
+            ]
+        }
+    }
+}

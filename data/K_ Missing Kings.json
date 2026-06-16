@@ -1,0 +1,17 @@
+{
+    "K: Missing Kings": {
+        "anime_url": "https://witanime.you/anime/k-missing-kings/",
+        "type": "Movie",
+        "mal_id": "16904",
+        "movie": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=10358",
+                "https://videa.hu/player?v=DLzPkR7OGJ9hHjEq"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1N-7Y9QyWTelAPvoAR2k6gMQ0p1ag_gor&export=download",
+                "https://workupload.com/file/3rJsLeYVKuu"
+            ]
+        }
+    }
+}

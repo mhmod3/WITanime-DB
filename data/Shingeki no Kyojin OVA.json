@@ -1,0 +1,37 @@
+{
+    "Shingeki no Kyojin OVA": {
+        "anime_url": "https://witanime.you/anime/shingeki-no-kyojin-ova/",
+        "type": "OVA",
+        "mal_id": "18397",
+        "1": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=7464"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1vEJ2S27LewjCHM-0CzONi8RELzvbH0f0&export=download",
+                "https://www.mediafire.com/file/bekmuqfpe2g2fw7/%5BWitanime.com%5D_SNKO_EP_01_FHD.mp4/file",
+                "https://workupload.com/file/Rp2A3M5CF7b"
+            ]
+        },
+        "2": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=7465"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1vig_Ntr5eFAOdd7LRfwhDrJtvLbZCgL0&export=download",
+                "https://www.mediafire.com/file/muyzkmin1wous6a/%5BWitanime.com%5D_SNKO_EP_02_FHD.mp4/file",
+                "https://workupload.com/file/6FcHe2zAYR8"
+            ]
+        },
+        "3": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=7466"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1Tp1gtWzrX0xiVgy_2BwINSjsiiiocDuM&export=download",
+                "https://www.mediafire.com/file/t83ipb1800rksl5/%5BWitanime.com%5D_SNKO_EP_03_END_FHD.mp4/file",
+                "https://workupload.com/file/KtYeU9HVEkB"
+            ]
+        }
+    }
+}

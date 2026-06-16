@@ -1,0 +1,747 @@
+{
+    "Monster": {
+        "anime_url": "https://witanime.you/anime/monster/",
+        "type": "TV",
+        "mal_id": "19",
+        "1": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6173",
+                "https://ok.ru/videoembed/4395091495499"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1YFm1NBg3rivU1Vi6lTbly-0TD_aK6ZMa&export=download",
+                "https://mega.nz/file/kCVQjCTb#YUDBbyYiCNt82JnDX6whpzseIvry_b_n09zOChTqVO4"
+            ]
+        },
+        "2": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6174",
+                "https://ok.ru/videoembed/4395112925771"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1z-Rbw2JBxxjncrxREu-g1AmT8UClwRW4&export=download",
+                "https://mega.nz/file/JPF3SJqD#LgTEA0JRt9PkhSEF8Mr6d5RRiDZ4U1SYtBPHxpBI3uM"
+            ]
+        },
+        "3": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6175",
+                "https://ok.ru/videoembed/4395118168651"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=13juREQipqDauvLNYPrBr0pVl9XcRHl7A&export=download",
+                "https://mega.nz/file/NSUE1AoJ#zw5XXbHMblaadVGZXDDzid0uoZYxT6_kbxyjoRuCpSk"
+            ]
+        },
+        "4": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6176",
+                "https://ok.ru/videoembed/4395122494027"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1P0-XDCBIEnPxCGu0005ZQ5J0Xa4RnxgT&export=download",
+                "https://mega.nz/file/5XEFRDhD#3DEb3WymjtMAuqnXLoMDdF6zUk3urkB0DrXJx421Sl0"
+            ]
+        },
+        "5": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6177",
+                "https://ok.ru/videoembed/4395132979787"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=11v541iBprVsNTrQEo5ggDGLq7iHCHejQ&export=download",
+                "https://mega.nz/file/8S0hHYLQ#kPfpYURr4Tqqr7WzW-ka-1ZRnjp2psSJ8yWtlxSWm9E"
+            ]
+        },
+        "6": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6178",
+                "https://ok.ru/videoembed/4395137239627"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1KgpPhbTPBnSkM6z8rpgOs7uleHEDtRJl&export=download",
+                "https://mega.nz/file/QG1gTZbQ#d0GwL2D9xSdcVIh0aWh4fiDzuQWwG5lk3T08mpi0mEQ"
+            ]
+        },
+        "7": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6179",
+                "https://ok.ru/videoembed/4395140254283"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1OwZbedvwDUINtq82qwVaLhIFXJQSVp4c&export=download",
+                "https://mega.nz/file/tGtHmLiD#2Mrrd28i71-Bofi58LgYoGCBz-r-PHz5WUdEp4Ra_bA"
+            ]
+        },
+        "8": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6180",
+                "https://ok.ru/videoembed/4395144251979"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1p5dwno3ObU8GABMOFveK_MX3E-kRuQQm&export=download",
+                "https://mega.nz/file/sPc1mSAS#YwSJWBw29ZoxohZ0n84UpQ_5L8dwx7_mdoG17R0eg0w"
+            ]
+        },
+        "9": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6181",
+                "https://ok.ru/videoembed/4395150674507"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1nmSjtshVeqwcXRDNfKeBelBia65LOlB_&export=download",
+                "https://mega.nz/file/lbdBiTrC#xyCW2S3FCLjy72SG4dhUC8myLv-LDktQRi0uRBlrwwY"
+            ]
+        },
+        "10": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6182",
+                "https://ok.ru/videoembed/4395155262027"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1DcW7zxmYc-2KwxCBjeh4_haOaktazeVI&export=download",
+                "https://mega.nz/file/YfdFGBBZ#Zp5E4NMPBS4pP_w6mgFjNoEIieiwMSS8ic7yHzwDIBo"
+            ]
+        },
+        "11": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6183",
+                "https://ok.ru/videoembed/4395159587403"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1R0k9sx42pdTcqgvGSa0XjTxpDRnndi2n&export=download",
+                "https://mega.nz/file/UH8yHQSS#xCTjBfFAwp-wmDIBzsti7RY6275bhqKHnqpfGzb1fH8"
+            ]
+        },
+        "12": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6184",
+                "https://ok.ru/videoembed/4395164043851"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=102AqfKP9S3osTk5sNWYClfYMEYNCCRHM&export=download",
+                "https://mega.nz/file/gDlkAJAL#HkLBnn5oSYr4NxFrDKJAj9ltwVtfP09rIDNG3nVyiRE"
+            ]
+        },
+        "13": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6185",
+                "https://ok.ru/videoembed/4395168500299"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1hokuCn1UCpRco5c53lCkvLn2gFCoEIbI&export=download",
+                "https://mega.nz/file/kPdTnIwJ#6WFiyNKjlXuZHWrs4aGOvY66QbMxj2Rf50sNhWlvvXo"
+            ]
+        },
+        "14": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6186",
+                "https://ok.ru/videoembed/4395173546571"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1oeLBJ2ij4e5Ptg4PtVSEQOkNcAETMcfc&export=download",
+                "https://mega.nz/file/kLdwXToR#NyejelP_yKcNCKIhE0M10NApscsoPsM4vHV4P9Mg2tU"
+            ]
+        },
+        "15": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6187",
+                "https://ok.ru/videoembed/4395179903563"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1Dl1rLH8zKP9ZDprJE7EXjmqexep55J1I&export=download",
+                "https://mega.nz/file/JP9RjarL#Dc6yr6AfP98WudpKu9ZFiCMw76_JpyamxAMJz0R3KQU"
+            ]
+        },
+        "16": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6188",
+                "https://ok.ru/videoembed/4395185932875"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=120EDCmgVVMhYKlMf8Inb1WCxLI-5_V63&export=download",
+                "https://mega.nz/file/BSdizIbY#L94lYh0Aqhij7dg-UyQDYZ6dgjevLjjEvpzOP1vtWPU"
+            ]
+        },
+        "17": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6189",
+                "https://ok.ru/videoembed/4395191634507"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1bHumPOgb3S6vyIHYiOWwlI2gaXeAj71I&export=download",
+                "https://mega.nz/file/1SVBBCJS#VZy9P-CYKXuMT-zFfN5h6lhrzjwCdmbaTA3uGKpsV1E"
+            ]
+        },
+        "18": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6190",
+                "https://ok.ru/videoembed/4395196287563"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=13LdDUfJHt61u68xsrVELWoGmhqUSW8nt&export=download",
+                "https://mega.nz/file/pTUGDY4T#J3yM_ImXZLBivKiCip0bYeZsdHPLBmWM3Ow1yMqe5Vk"
+            ]
+        },
+        "19": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6191",
+                "https://ok.ru/videoembed/4395200875083"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1dSTDk0jWo9a6dBaxOA422IBsacsbG4OC&export=download",
+                "https://mega.nz/file/VK8HUZIB#fOpghS5P4rkoDziLEAGIq0oBBsDxfCIwkaEHrN1rgKc"
+            ]
+        },
+        "20": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6192",
+                "https://ok.ru/videoembed/4395206183499"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1S_1WIFFCmr9a_FCJL3j9DAx1YR-e7ewv&export=download",
+                "https://mega.nz/file/JGMm0QzL#twCZ-iiQCx6t63eHklGD70YLfM2pZK7LWQ8wg1VMbR8"
+            ]
+        },
+        "21": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6193",
+                "https://ok.ru/videoembed/4395218438731"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1YaF2hE-r31DgPdvdutvMHNVjnrbngUN2&export=download",
+                "https://mega.nz/file/hLsCTahR#D0aLfiFh5SsnDC67ALrOifE9CJJDGnixWDGItp5fkcM"
+            ]
+        },
+        "22": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6194",
+                "https://ok.ru/videoembed/4395222829643"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1srK5yuZzVWFOtusiQREqQaiz7HCKK4y2&export=download",
+                "https://mega.nz/file/NXM20IKY#0QzPHm5Bm_tmzytkKfTSFkiDE9IKus45XTZUaeSDD8Y"
+            ]
+        },
+        "23": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6195",
+                "https://ok.ru/videoembed/4395226958411"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1_tp5yJ_-XwHC77NSVt1W1yMWribUC1_6&export=download",
+                "https://mega.nz/file/kaFSyTxK#VxVjOwWDMU-F5XmccvYmN7As2tlMckw43LzwpdduzKA"
+            ]
+        },
+        "24": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6196",
+                "https://ok.ru/videoembed/4395230169675"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1WL9wQrKA5O0kzm0nse8p3HwJ8gxt1nYX&export=download",
+                "https://mega.nz/file/cXFgCTbB#65W9_U6JK0jfeP1aNo2DfMSnH2a-CcvrsiCzPaDZShg"
+            ]
+        },
+        "25": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6197",
+                "https://ok.ru/videoembed/4395232856651"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1gyPjc7nHE4M40X1qnZif80P0BQPv2RUf&export=download",
+                "https://mega.nz/file/dXNgiTzA#v5xPM2Nb8I-Kh5VJFCNNLkAV8gaOQ_y_Dm-wtenMUtc"
+            ]
+        },
+        "26": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6198",
+                "https://ok.ru/videoembed/4395235871307"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=14N-gUBzBPuKqhRKOOZP2H4KyXAVkCoja&export=download",
+                "https://mega.nz/file/BOUUTKxZ#_qK8JY-X7AcGL0T8cEGD5nuouIeltCiPBkKCPcytVuI"
+            ]
+        },
+        "27": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6199",
+                "https://ok.ru/videoembed/4395239803467"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1Cv3SGv5ZRJaWDbR2Q-1JgsCRDeyyEAdb&export=download",
+                "https://mega.nz/file/Vb0DWDxQ#QRdMH1hOJdignPlSOrYMKMYj-M0PAoH5uyAtFLPD5Io"
+            ]
+        },
+        "28": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6200",
+                "https://ok.ru/videoembed/4395245046347"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1XGQzpJxsmSMHW7ifIRLVKaaCZgn8AD0Z&export=download",
+                "https://mega.nz/file/EPsjVJZD#3rRONOn5b5vqyBwrijmaBS1pDGcghH3YsMAKzFD2HGg"
+            ]
+        },
+        "29": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6201",
+                "https://ok.ru/videoembed/4395247995467"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1_mQQjsVE49HrU3rkTosxZJEAAWOkiZRS&export=download",
+                "https://mega.nz/file/hXERRTBC#yU_XfrO2wmTbIvrvE7HoY76i0WMoq5Q60yCwZSGG6Ms"
+            ]
+        },
+        "30": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6202",
+                "https://ok.ru/videoembed/4395250682443"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1ysLO_ZhJx5YpYdf0UdLhl-71krLblzni&export=download",
+                "https://mega.nz/file/EH8GVQha#6qhSSjQUbCAR8eB86brz_7Vn7tDqSK1P_eJUoXfifuA"
+            ]
+        },
+        "31": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6203",
+                "https://ok.ru/videoembed/4395261037131"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1ilqBmKsq0cfvO4bKNqQBYgxtX-6Xjg4h&export=download",
+                "https://mega.nz/file/ATsm2BLT#FgzIerYI-c2rt4OlyAr-OkYW6pQQ8nnyRhYLi4b_6PY"
+            ]
+        },
+        "32": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6204",
+                "https://ok.ru/videoembed/4395265952331"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1u0aRvClKZqwe_iT1D2Vy0y8RqdBjtC97&export=download",
+                "https://mega.nz/file/RXFlTKgZ#vRr8rDuiaNeUsGJ8RfbqMsfkBiD-Gyp9D1ROO776ML4"
+            ]
+        },
+        "33": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6205",
+                "https://ok.ru/videoembed/4395270605387"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=133l3q4Sf8Ocjp3KHN_1dXsWVgYc2vSi4&export=download",
+                "https://mega.nz/file/Bf0lyCDY#jxcNRlUK4YWvFoNDIowUmSyLQyf1ALGpMRvev71v2PY"
+            ]
+        },
+        "34": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6206",
+                "https://ok.ru/videoembed/4395273554507"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1hjsV6nfG09kDq9rNFoyft8_9-kdTL2k6&export=download",
+                "https://mega.nz/file/ULslwCYK#tmNQzCw1fKnLABtkPkCamVQhr50INffQUEEVX_aKmRM"
+            ]
+        },
+        "35": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6207",
+                "https://ok.ru/videoembed/4395275651659"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1XSHmmD0GTdiADhUorY-P9rOUc_T_mrsD&export=download",
+                "https://mega.nz/file/1XMg2SKb#RMLKAnprLQtlGeKsnGdHZbLDeko1JwfxUPKmSxorWJU"
+            ]
+        },
+        "36": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6208",
+                "https://ok.ru/videoembed/4395278404171"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=19CADVn9J6igSmRNQMrVvX0nJS5kVuK6X&export=download",
+                "https://mega.nz/file/FLNngK4L#e-v1-uIaHSEoTULY7hIVZfyX-xV_JeJ9-ihykok6B2Y"
+            ]
+        },
+        "37": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6209",
+                "https://ok.ru/videoembed/4395283057227"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1Qaq2zIlOfJ0ueMDxx9_QQavjUW5KOdsl&export=download",
+                "https://mega.nz/file/lbVVlB7B#8ZEsMz59f0boE79dnJhE5euiP0WGlp4xeAHxZs9QKWY"
+            ]
+        },
+        "38": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6210",
+                "https://ok.ru/videoembed/4395284826699"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=17wDwZ2mcxEevEisEjJjsCfvx8EbA3rRR&export=download",
+                "https://mega.nz/file/VP0xRaAY#4q4BAaqmUrSdzofJWy8ZonLsso3KhbHh1wHmpkb5e-Y"
+            ]
+        },
+        "39": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6211",
+                "https://ok.ru/videoembed/4395286006347"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1-zFkSiAp5m24TLHomXEUXin1rHz88s_f&export=download",
+                "https://mega.nz/file/9TFgBapI#3b6bnyzJt2zlTaa9UHR0xymfX-k-GgZJRfKTE6bJadU"
+            ]
+        },
+        "40": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6212",
+                "https://ok.ru/videoembed/4395287579211"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=155S_gt8SaKmYpDsY3Cyd0Byk49gcOjXj&export=download",
+                "https://mega.nz/file/db93mDRY#tAfXaQgwZ1T1PQDolrvxqqm1XzGdRa_iLNfFv-RSiRE"
+            ]
+        },
+        "41": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6213",
+                "https://ok.ru/videoembed/4395288693323"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1iQ-e8LWEDKiDvBvC-slblfpA8B_9lQT4&export=download",
+                "https://mega.nz/file/QLNj1T5Z#wCU-sMdaF964UfP_a3xALGyz_NbmTJhy_ltqgKZA4B4"
+            ]
+        },
+        "42": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6214",
+                "https://ok.ru/videoembed/4395290331723"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1ySi_wVss3IND_KlkATXokcoTg2YYlqPx&export=download",
+                "https://mega.nz/file/wbdHHJRC#Ex58Y4Q4obZYvwtaLmnsnSBPkIpO-w4HqAE2c1FpEHE"
+            ]
+        },
+        "43": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6215",
+                "https://ok.ru/videoembed/4395291839051"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1--RsRQ2Ctfe5v5FLfsKbYCeo25oAkbJe&export=download",
+                "https://mega.nz/file/oXlHkLaL#7zRbQ-4mg9T7_L95f0glRYDbplNb6zALUQLdhcsSBGA"
+            ]
+        },
+        "44": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6216",
+                "https://ok.ru/videoembed/4395293608523"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1N6lqfhdK_kweNdnOQ0gEwGbvfgYg_PkN&export=download",
+                "https://mega.nz/file/5DtW1LoR#CwPvePSu9esyOUyjVLWkeM9AiOSx17mJLrCDORboK5s"
+            ]
+        },
+        "45": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6217",
+                "https://ok.ru/videoemed/4395295246923"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1AMEsXtRHnD8FemJ3OkAZO0mB-gjivY6z&export=download",
+                "https://mega.nz/file/IK1UnT5Z#gBY-wJwbkXthXjEDFTS29ZtC5lC20zTpuNfFlegxiqE"
+            ]
+        },
+        "46": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6218",
+                "https://ok.ru/videoembed/4395296688715"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1mKHK9yEWfIPqipVI6h8yU4-kviyT0CrO&export=download",
+                "https://mega.nz/file/gON2CD5I#zWtx1YYY5cCHqDcSc_4hBldx1BFrTHMOO5uXWtu-Smk"
+            ]
+        },
+        "47": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6219",
+                "https://ok.ru/videoembed/4395298589259"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=174tvEIkVbXLyifQ1iCm83jSGp1BWKH29&export=download",
+                "https://mega.nz/file/kD1BQDRZ#goYrI7K6Zrb09J1ChRZUW9LEiaPQzARxhoHS4ok6fL4"
+            ]
+        },
+        "48": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6220",
+                "https://ok.ru/videoembed/4395300162123"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1fOiFy7_v2v2fy71u7Pj8dmokIEpzwsJD&export=download",
+                "https://mega.nz/file/NfcygLKT#mcKc8ZbSreqZK3feZFyaNalWOHAeQ3yiDkgnMomxTyI"
+            ]
+        },
+        "49": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6221",
+                "https://ok.ru/videoembed/4395301014091"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1vWuiRihljRWdBBdYgvOmUCl0q2zpyugU&export=download",
+                "https://mega.nz/file/YCkmHAZK#hRIj8-TCyBm7lNmcTaBmzawKY0HT0dcIwj-QTGp2IP0"
+            ]
+        },
+        "50": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6222",
+                "https://ok.ru/videoembed/4395301800523"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1GzsrWxGUIa79OxZOgZz6kX3USA1bazC6&export=download",
+                "https://mega.nz/file/sfcHhJpZ#Nwxr2ML6kpmlZLbGDGpSoU4TgvyqQyW6vpcmyV2IQHg"
+            ]
+        },
+        "51": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6223",
+                "https://ok.ru/videoembed/4395303242315"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1iJl1ZmM5L6sEmuLEjtoys16FE3j4-3Du&export=download",
+                "https://mega.nz/file/Jb913JpK#7We2jGelVli_nt75jK_fXWL6FfHJ3hEdpsoHexnvdv8"
+            ]
+        },
+        "52": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6224",
+                "https://ok.ru/videoembed/4395305077323"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1s6s_dSdYOgJnbJUy4lmifiEaLQSVU8A9&export=download",
+                "https://mega.nz/file/wP102SpQ#-VaWnzsWWu3lPOZepnbYa2Wr4-G7qNbn3kGAujd_ugY"
+            ]
+        },
+        "53": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6225",
+                "https://ok.ru/videoembed/4395306060363"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1mkpOmPTrrkQLfXJZsdIJAdA7nFvAH1IJ&export=download",
+                "https://mega.nz/file/xa82jBYa#oSIf8obe1rcqGIoZWgFMv2D3Cet4A_Y7MxrS14wrsiU"
+            ]
+        },
+        "54": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6226",
+                "https://ok.ru/videoembed/4395307895371"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=14QqJAr3SZsBW7Tiiq7d6Z94WS2Ksofnn&export=download",
+                "https://mega.nz/file/kftQzDJK#TmeUAr_WGtuH5r29-_17OuutdA1VRfdmYFolReAUndE"
+            ]
+        },
+        "55": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6227",
+                "https://ok.ru/videoembed/4395309795915"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1AbIg3FP6kK4Jc08SzqK9i9bgmlppA8uq&export=download",
+                "https://mega.nz/file/kOtRhYTT#hOmmvp2qS0OBJZSxoVYqc421u-pPBIhP2Imx4O_uIO8"
+            ]
+        },
+        "56": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6228",
+                "https://ok.ru/videoembed/4395311565387"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1eAyUrnsMC_kbRrYwsIWuCPvRBgyrIA7j&export=download",
+                "https://mega.nz/file/MSEVWA7Q#og3p60YaZzoKL_t1razvSNR2N8g_PwrbT1-oaweW7-k"
+            ]
+        },
+        "57": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6229",
+                "https://ok.ru/videoemed/4395313203787"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1f4_sgYIBAmzBZes0UtI-ps4bkCEVCtTa&export=download",
+                "https://mega.nz/file/pOdyGY7C#5iV_l8FxnY1SNsBhJeFqtxMZcJmH3lAGeGbF81cJo3s"
+            ]
+        },
+        "58": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6230",
+                "https://ok.ru/videoembed/4395314252363"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1O4xyojgdliipnUyUt1MO2kSLnuSZce1D&export=download",
+                "https://mega.nz/file/IfcmULwC#XHXh-uEVwcWUBfypxTU9RKPhC51a6ZJZljnCExppBns"
+            ]
+        },
+        "59": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6231",
+                "https://ok.ru/videoembed/4395315956299"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1Ekvt1o1ftoXOk7vtCPExtI6tRiS9QVI_&export=download",
+                "https://mega.nz/file/UCskXKYR#mwhqbCY1Cx84sits_hpKBJkfISruI2yVVI49CQZXEyk"
+            ]
+        },
+        "60": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6232",
+                "https://ok.ru/videoemed/4395317004875"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1ul8fCVpWCOs7phqtuwPx6YuzvAlk_0Zg&export=download",
+                "https://mega.nz/file/YXVVAJBR#PKqN2bc2a3soGI8WCJf8noEeOlD5LY4ktT_kg_WOy-s"
+            ]
+        },
+        "61": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6233",
+                "https://ok.ru/videoembed/4395318053451"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1nRABibbyapdH9skZ8s4J0hPeUxEnnuBe&export=download",
+                "https://mega.nz/file/watihZYR#FDjoka10-pUKrJRhd1ddXt1WFsn_JOppHYX1l7T8Cz4"
+            ]
+        },
+        "62": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6234",
+                "https://ok.ru/videoemed/4395320674891"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1ZFgiVJRbL4PXxJ-54hzs8k7dybtNCpfv&export=download",
+                "https://mega.nz/file/Qf8nEbQL#k2ybW_3VJBMSqqDkPjEr--zh79Z5jHmZA2amazHLvro"
+            ]
+        },
+        "63": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6235",
+                "https://ok.ru/videoembed/4395322378827"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1FMIgDJzZ1zXiSYhSuet1GvuFf8yj70Ow&export=download",
+                "https://mega.nz/file/YTkDlS6b#IeyQE4yMwylKww6vmQEohK4Rp3tNSLgps6cO6lXaQzc"
+            ]
+        },
+        "64": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6236",
+                "https://ok.ru/videoembed/4395323165259"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1NQUi-JBMl0mxUnwlTDtKLpm99GaLj-gf&export=download",
+                "https://mega.nz/file/oO1FmKbD#ZWC8SEGDTla-DNb1iYHWvVWYqJAUqQhLFh-BHAOIZI8"
+            ]
+        },
+        "65": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6237",
+                "https://ok.ru/videoembed/4395324934731"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1ltky9Kkf5l-O5kCKUN00BGAZVLzcFQ2V&export=download",
+                "https://mega.nz/file/RXNhSbhB#Yc_0WArVxPck9kX8spr0dx-eccHKd1JOXOECR6F26Ig"
+            ]
+        },
+        "66": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6238",
+                "https://ok.ru/videoembed/4395326179915"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1xKGRwArX85BUB8am-VUKFFwBQUwHlfXu&export=download",
+                "https://mega.nz/file/JaFnGBDQ#CnOv6I4MjRwP8dwGXQi5gdQCz_QjhF5Z_SuJKqXtUkU"
+            ]
+        },
+        "67": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6239",
+                "https://ok.ru/videoembed/4395326966347"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=122uyzSsolEMXFSGYFgYkhnfDO8lDepDY&export=download",
+                "https://mega.nz/file/lG93DB7S#637Yx0pRtenhm6IgobXkeUljF2ID7kbbZs3-iOXmca8"
+            ]
+        },
+        "68": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6240",
+                "https://ok.ru/videoembed/4395328145995"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1A7PawVSGiBMu-XVVGKny2ZogDJTEUEJj&export=download",
+                "https://mega.nz/file/MHchmaqZ#kzG0fL7j2ukoH7JUOItt9Jp_QODfdiE4_d1PFXpg7hc"
+            ]
+        },
+        "69": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6241",
+                "https://ok.ru/videoembed/4395329260107"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1KI2k7SMehXoiCrnJhVvToD0NAVh6TUOm&export=download",
+                "https://mega.nz/file/8eMV1KSZ#pod3k4u74l9bjDuGNNRZzrnPsv--0qDNyS1gFbMeOdw"
+            ]
+        },
+        "70": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6242",
+                "https://ok.ru/videoembed/4395330112075"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1ccNiLfa_rZ6CHCu3We4pKVmMYu94tLRp&export=download",
+                "https://mega.nz/file/1OtCFS4a#vkJIa9zHcP70saEepU3lod52B4MJnWOpwD50KuJ3ZU4"
+            ]
+        },
+        "71": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6243",
+                "https://ok.ru/videoembed/4395334044235"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1eR5PeuKy6rBnK1BfH-XSGRdfEBpfxx12&export=download",
+                "https://mega.nz/file/BPEnRJZK#kJQIRVT8iMbaKEmcDkWQYshhPyiHy8hGkiGZ-3OdZs8"
+            ]
+        },
+        "72": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6244",
+                "https://ok.ru/videoembed/4395334765131"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1stDgEdkXlrxXW2nhTn-J0QncNWuUK-Ep&export=download",
+                "https://mega.nz/file/hLMwgSDD#pTfVSULXGa4iMXj9ILPXBaHtKhrT2irt6gwHID7HTTQ"
+            ]
+        },
+        "73": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6245",
+                "https://ok.ru/videoembed/4395335486027"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1ZXxGWA8iwvhvF8KVUhWVxH0YrlVXuCNC&export=download",
+                "https://mega.nz/file/YXUwhLJT#ZUO-8jVwuQD4kFUEE0xH21_z2vIaY76dhqqkz36J1lA"
+            ]
+        },
+        "74": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=6246",
+                "https://ok.ru/videoembed/4395336469067"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1_WVzxEla-7rdjsvT2i-aqBt7OgM4l-ma&export=download",
+                "https://mega.nz/file/cPlTVQxa#DHVoUDD6tywKVGlMkEZ8X4DYkjhVLInYPmNGNuts8Ww"
+            ]
+        }
+    }
+}

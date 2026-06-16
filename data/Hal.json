@@ -1,0 +1,18 @@
+{
+    "Hal": {
+        "anime_url": "https://witanime.you/anime/hal/",
+        "type": "Movie",
+        "mal_id": "16528",
+        "movie": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=20511",
+                "https://videa.hu/player?v=IBJTqLx3T8JB2rwK",
+                "https://hglink.to/e/zna187sv2qrs"
+            ],
+            "downloading_links": [
+                "https://wtsrv.xyz/XnQAK5Q5",
+                "https://wtsrv.xyz/fu35Wts1"
+            ]
+        }
+    }
+}

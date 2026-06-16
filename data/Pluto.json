@@ -1,0 +1,103 @@
+{
+    "Pluto": {
+        "anime_url": "https://witanime.you/anime/pluto/",
+        "type": "TV",
+        "mal_id": "35737",
+        "1": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=13342",
+                "https://videa.hu/player?v=QKPcujGFZkkXqQc4",
+                "https://videa.hu/player?v=NuJUhQuyRpCmUZzd"
+            ],
+            "downloading_links": [
+                "https://wahmi.org/MOi3fUEt39zVTL9/file",
+                "https://wahmi.org/Op9gGjKrHPdUkFV/file",
+                "https://wahmi.org/k0Qm4cevpPdqvMe/file"
+            ]
+        },
+        "2": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=13343",
+                "https://videa.hu/player?v=Wkrl8XIeCegRiZDb",
+                "https://videa.hu/player?v=i3ab8bL71hirTXR0"
+            ],
+            "downloading_links": [
+                "https://wahmi.org/5MDHfI8gbOyrS6P/file",
+                "https://wahmi.org/ysDMvYA8zq46LB3/file",
+                "https://wahmi.org/xOocZjCIpJeNVwE/file"
+            ]
+        },
+        "3": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=13344",
+                "https://videa.hu/player?v=3AbugcmUDO7iIrJn",
+                "https://videa.hu/player?v=wGYgUb4PlJp7aTrl"
+            ],
+            "downloading_links": [
+                "https://wahmi.org/YL8Wo4nSYTXVPww/file",
+                "https://wahmi.org/Z8PJSLFOsWiIC8M/file",
+                "https://wahmi.org/DUnzoGterWDqhSG/file"
+            ]
+        },
+        "4": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=13345",
+                "https://videa.hu/player?v=tHcTafp8kxJxXsNg",
+                "https://videa.hu/player?v=vKoqyvhuQ8WtavPv"
+            ],
+            "downloading_links": [
+                "https://wahmi.org/bKDEuyTKB83d1T0/file",
+                "https://wahmi.org/LmQ721gPkAwNV4j/file",
+                "https://wahmi.org/18vlWH62ZLxO0Sr/file"
+            ]
+        },
+        "5": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=13346",
+                "https://videa.hu/player?v=VRH5tbdhkpMxf8JP",
+                "https://videa.hu/player?v=A1pbz6qmOox2Clqu"
+            ],
+            "downloading_links": [
+                "https://wahmi.org/xO2zRto9LSkMlsP/file",
+                "https://wahmi.org/Iikd13otUe4kSyV/file",
+                "https://wahmi.org/5Wq5OsihukdrXSx/file"
+            ]
+        },
+        "6": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=13347",
+                "https://videa.hu/player?v=eNgcWjnjwFIopz9o",
+                "https://videa.hu/player?v=q8t1TE6pZtAl2DNy"
+            ],
+            "downloading_links": [
+                "https://wahmi.org/jLhyhBCD4Et90QD/file",
+                "https://wahmi.org/D0BVlC3lPxmDq3E/file",
+                "https://wahmi.org/lCGt1KgwhGcJGRN/file"
+            ]
+        },
+        "7": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=13348",
+                "https://videa.hu/player?v=03TaFYJH5iqF8rDy",
+                "https://videa.hu/player?v=S5MQuRZp5LAOPrE8"
+            ],
+            "downloading_links": [
+                "https://wahmi.org/wyO1ui5hamYpfRH/file",
+                "https://wahmi.org/Nn7WHMLxYOPVuTb/file",
+                "https://wahmi.org/0bFDCM71z5fGzmS/file"
+            ]
+        },
+        "8": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=13349",
+                "https://videa.hu/player?v=1JgItOsU1b7DjFY8",
+                "https://videa.hu/player?v=2QvUvdDm95bEbLpC"
+            ],
+            "downloading_links": [
+                "https://wahmi.org/StNOWbut0mCjw1f/file",
+                "https://wahmi.org/44YzhSX0ykwH2pT/file",
+                "https://wahmi.org/hgQhs98NuzqAn0H/file"
+            ]
+        }
+    }
+}

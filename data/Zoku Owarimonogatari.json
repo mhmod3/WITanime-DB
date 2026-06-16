@@ -1,0 +1,17 @@
+{
+    "Zoku Owarimonogatari": {
+        "anime_url": "https://witanime.you/anime/zoku-owarimonogatari/",
+        "type": "Movie",
+        "mal_id": "36999",
+        "movie": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=10314",
+                "https://videa.hu/player?v=qMS8tllZl9FVeMqq"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1QJz_9pwelgiEHQAjMDt9lyW0I6U9bHH6&export=download",
+                "https://www.mediafire.com/file/smxvlqob8tdumx3/%5BWitanime.com%5D_ZO_EP_06_END_BD-FHD.zip/file"
+            ]
+        }
+    }
+}

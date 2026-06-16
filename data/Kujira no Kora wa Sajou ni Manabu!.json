@@ -1,0 +1,29 @@
+{
+    "Kujira no Kora wa Sajou ni Manabu!": {
+        "anime_url": "https://witanime.you/anime/kujira-no-kora-wa-sajou-ni-manabu/",
+        "type": "Special",
+        "mal_id": "37272",
+        "1": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=1896",
+                "https://ok.ru/videoembed/3695711423051",
+                "https://highload.to/e/8lwsrfidxvjy"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=18UgGena4u-5nCIvYdUelyoRgvp8RpFHv&export=download",
+                "https://www.mp4upload.com/me4t5qjbindl"
+            ]
+        },
+        "2": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=1897",
+                "https://ok.ru/videoembed/3695714110027",
+                "https://highload.to/e/ocbram5mygkv"
+            ],
+            "downloading_links": [
+                "https://drive.google.com/u/0/uc?id=1EEeJ0kFLB-TL7LNXkQBB3S3EJ32BYW3i&export=download",
+                "https://www.mp4upload.com/49sbmmd9fa0x"
+            ]
+        }
+    }
+}

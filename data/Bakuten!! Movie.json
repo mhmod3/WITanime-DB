@@ -1,0 +1,28 @@
+{
+    "Bakuten!! Movie": {
+        "anime_url": "https://witanime.you/anime/bakuten-movie/",
+        "type": "Movie",
+        "mal_id": "49283",
+        "movie": {
+            "streaming_links": [
+                "https://yonaplay.net/embed.php?id=11144",
+                "https://ok.ru/videoembed/5380245162571",
+                "https://videa.hu/player?v=VbXMXsNtGjOnWv80",
+                "https://ok.ru/videoembed/5380409985611",
+                "https://ok.ru/videoembed/5380441639499",
+                "https://videa.hu/player?v=RcPYDwM86qitsKrp"
+            ],
+            "downloading_links": [
+                "https://workupload.com/file/ysQe5XJzZbT",
+                "https://mega4upload.com/by3cnlcgs681",
+                "https://gofile.io/d/4R3kcm",
+                "https://workupload.com/file/rVzFgV7zZ9P",
+                "https://mega4upload.com/gkj075xvaimu",
+                "https://gofile.io/d/4R3kcm",
+                "https://workupload.com/file/JWV8bHxstDr",
+                "https://mega4upload.com/5hahrj1p8tvj",
+                "https://gofile.io/d/4R3kcm"
+            ]
+        }
+    }
+}
