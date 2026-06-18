@@ -11,7 +11,7 @@
 
     {
         "Shingeki no Kyojin": {
-            "anime_url": "https://witanime.you/anime/shingeki-no-kyojin/",
+            "anime_url": "https://whatever.whatever/anime/shingeki-no-kyojin/",
             "type": "TV",
             "mal_id": "16498",
             "1": {
