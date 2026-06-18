@@ -63,7 +63,7 @@
 <details>
 <summary><strong>3. كيف يمكن استعمال هذه المشروع </strong></summary>
 
-فقط اذهب الى [Releases](https://github.com/mhmod3/WITanime-DB/releases) وبهدها حمل الملف المضغوط وستصبح عندك قاعدة البيانات متوفرة.
+فقط اذهب الى [Releases](https://github.com/mhmod3/WITanime-DB/releases) وبعدها حمل الملف المضغوط وستصبح عندك قاعدة البيانات متوفرة.
 </details>
 
 <details>
