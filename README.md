@@ -75,7 +75,7 @@
 <details>
 <summary><strong>5. ‫من اين احصل على ملفات الـ Scraping ؟‬ </strong></summary>
 
-‫‫تواصل معي تيليجرام او ديسكورد‬‬
+‫‫تواصل معي على [تيليجرام‬‬](http://t.me/liM7mod)
 </details>
 
 
