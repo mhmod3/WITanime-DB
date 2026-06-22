@@ -16,23 +16,19 @@
             "mal_id": "16498",
             "1": {
                 "streaming_links": [
-                    "url",
-                    "url"
+                    {"url": "https://...", "quality": "FHD"},
+                    {"url": "https://...", "quality": "HD"}
                 ],
                 "downloading_links": [
-                    "url",
-                    "url"
+                    {"url": "https://...", "quality": "FHD"},
+                    {"url": "https://...", "quality": "SD"}
                 ]
             },
             "2": {
                 "streaming_links": [
-                    "url",
-                    "url"
+                    {"url": "https://...", "quality": "unknown"}
                 ],
-                "downloading_links": [
-                    "url",
-                    "url"
-                ]
+                "downloading_links": []
             }
         }
     }
@@ -40,7 +36,9 @@
 - **anime_url**: الرابط الأساسي للأنمي على المصدر.
 - **type**: نوع العرض (TV, Movie, OVA, إلخ).
 - **mal_id**: المعرف الرسمي من MyAnimeList.
-- **أرقام الحلقات (1, 2, ...)**: تحتوي كل حلقة على قائمتين للروابط (بث وتحميل).
+- **أرقام الحلقات (1, 2, ...)**: تحتوي كل حلقة على قائمتين للروابط (بث وتحميل)، كل رابط يحتوي على:
+  - **url**: رابط الفيديو أو التحميل.
+  - **quality**: جودة الفيديو (FHD, HD, SD, multi, أو unknown في حال عدم توفرها).
 
 ## آلية التحديث الدوري
   
